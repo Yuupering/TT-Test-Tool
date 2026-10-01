@@ -2,6 +2,16 @@ TTStudio Proprietary License (TTStudio 독점 이용 라이선스)
 Copyright (c) 2026 TTStudio(티티스튜디오) · ttstudio.kr.
 All rights reserved, subject to the terms below and applicable third-party licenses.
 
+적용 범위
+- 이 라이선스는 GitHub Release로 배포되는 TT Test Tool 실행 파일과
+  TTStudio가 직접 만든 앱 코드·화면·기본 앱 노하우에 적용됩니다.
+- 사용자 작업 결과(포팅 코드·빌드 산출물·TC·보고서)는 만든 사람의 것입니다.
+  아래의 앱 복제·재배포·개작 제한은 사용자 작업 결과에 적용되지 않습니다.
+- 별도 커뮤니티 저장소의 노하우 항목(entries/)과 묶음(packs/)은 CC BY 4.0을 따릅니다.
+  아래의 앱 노하우 제한은 해당 커뮤니티 노하우에 적용되지 않습니다.
+  커뮤니티 라이선스: https://github.com/Yuupering/tt-testtool-knowhow/blob/main/LICENSE
+- 제3자 구성요소는 각각의 라이선스를 따르며 해당 라이선스가 부여한 권리를 유지합니다.
+
 TT Test Tool 이용 약관
 
 만든 곳과 쓸 수 있는 범위
