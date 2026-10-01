@@ -1,4 +1,8 @@
-﻿TT Test Tool 이용 약관
+TTStudio Proprietary License (TTStudio 독점 이용 라이선스)
+Copyright (c) 2026 TTStudio(티티스튜디오) · ttstudio.kr.
+All rights reserved, subject to the terms below and applicable third-party licenses.
+
+TT Test Tool 이용 약관
 
 만든 곳과 쓸 수 있는 범위
 TT Test Tool 은 TTStudio(티티스튜디오)에서 만들었습니다.

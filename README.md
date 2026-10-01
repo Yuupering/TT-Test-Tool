@@ -2,6 +2,8 @@
 
 마인크래프트 Paper 플러그인과 Fabric 모드의 버전별 포팅, 빌드, 테스트를 돕는 Windows 데스크톱 앱입니다. TTStudio(티티스튜디오)에서 만듭니다.
 
+**라이선스: [TTStudio 독점 이용 라이선스 (Proprietary)](LICENSE.txt)**
+
 ## 다운로드
 
 [최신 버전 받기](https://github.com/Yuupering/TT-Test-Tool/releases/latest)
@@ -41,8 +43,19 @@
 
 보안 문제와 비밀 값이 포함된 자료는 공개 이슈에 올리지 말고 [보안 제보 안내](SECURITY.md)를 확인해 주세요.
 
-## 이용 약관과 제3자 구성요소
+## 라이선스와 이용 범위
 
-앱 이용에는 [이용 약관](LICENSE.txt)이 적용됩니다. [제3자 라이선스 고지](THIRD_PARTY_NOTICES.txt)와 실행 파일 옆의 Electron·Chromium 고지를 함께 확인해 주세요. 제3자 구성요소는 각각의 라이선스를 따릅니다. 커뮤니티 노하우는 별도 저장소의 CC BY 4.0 정책을 따릅니다.
+TT Test Tool에는 **TTStudio 독점 이용 라이선스**가 적용됩니다. 전체 조건은 [LICENSE.txt](LICENSE.txt)의 이용 약관을 확인해 주세요.
+
+| 대상 | 이용 범위 |
+|---|---|
+| TTStudio가 만든 앱과 기본 앱 노하우 | 본인 PC에서 플러그인·모드 포팅과 테스트에 사용 가능. 무단 재배포·개작·역분석·앱 노하우 추출은 제한됩니다. |
+| 사용자가 만든 포팅 코드·빌드 산출물·TC·보고서 | 만든 사람의 것이며, 위 앱 이용 제한의 대상이 아닙니다. |
+| Electron·Chromium 등 제3자 구성요소 | 각 구성요소의 라이선스가 적용되며, 앱 이용 약관은 해당 라이선스가 부여한 권리를 제한하지 않습니다. |
+| 별도 저장소의 커뮤니티 노하우 | [커뮤니티 저장소](https://github.com/Yuupering/tt-testtool-knowhow)의 CC BY 4.0 정책을 따릅니다. |
+
+[제3자 라이선스 고지](THIRD_PARTY_NOTICES.txt)와 실행 파일 옆의 Electron·Chromium 고지를 함께 확인해 주세요.
+
+GitHub의 라이선스 표시가 `Other`인 것은 사용자 정의 라이선스를 사용하기 때문입니다. 적용되는 라이선스는 위에 연결한 TTStudio 이용 약관입니다.
 
 © TTStudio(티티스튜디오) · ttstudio.kr
