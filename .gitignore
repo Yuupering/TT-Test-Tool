@@ -1,0 +1,11 @@
+# Public distribution documents and signed update metadata only.
+*
+!/.gitignore
+!/README.md
+!/LICENSE.txt
+!/SECURITY.md
+!/THIRD_PARTY_NOTICES.txt
+!/latest.json
+!/latest.json.sig
+!/history/
+!/history/*.json
